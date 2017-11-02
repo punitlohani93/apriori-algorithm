@@ -1,0 +1,20 @@
+400	BabySoap	Deodorant
+401	VRHeadSet	Batteries	Moisturizer	Remote	Mobile
+402	Clothes	Hangers	BodyWash	Deodorant	Moisturizer	Towel
+403	Moisturizer	Towel	Broom	Clothes
+404	Broom	Batteries	Diapers	Moisturizer
+405	Clothes	Hangers	BabySoap	Diapers
+406	Moisturizer	Deodorant	Broom	Clothes	VRHeadSet
+407	Moisturizer	BodyWash	Deodorant	Towel
+408	Diapers	Remote	Hangers	VRHeadSet
+409	VRHeadSet	Batteries	Remote	Mobile
+410	Diapers	BabySoap	BodyWash	Moisturizer	Deodorant	Towel
+411	Broom	BabySoap	Diapers	Moisturizer	Batteries
+412	Batteries	Clothes	Remote	Mobile
+413	VRHeadSet	BodyWash	Towel	Remote	Mobile
+414	Hangers	Mobile	Batteries	Towel
+415	BodyWash	Deodorant	Remote
+416	Batteries	Broom	Deodorant	Moisturizer
+417	Clothes	Hangers	BabySoap	Diapers	VRHeadSet	Batteries	Mobile
+418	Batteries	Broom	Towel
+419	Batteries	Deodorant	Remote

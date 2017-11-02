@@ -1,0 +1,4 @@
+1001	ink	pen	cheese	bag
+1002	milk	pen	juice	cheese
+1003	milk	juice
+1004	juice	milk	cheese

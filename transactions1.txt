@@ -1,0 +1,20 @@
+100	Diapers	BabySoap	BodyWash	Deodorant
+101	VRHeadSet	Batteries	Moisturizer	Remote	Mobile
+102	Clothes	Hangers	BodyWash	Deodorant	Moisturizer	Towel
+103	Deodorant	BodyWash	Moisturizer	Towel
+104	Broom	Batteries	Diapers	Moisturizer
+105	Clothes	Hangers	BabySoap	Diapers
+106	Moisturizer	Deodorant
+107	Moisturizer	BodyWash	Deodorant	Towel
+108	BabySoap	Diapers
+109	VRHeadSet	Batteries	Remote	Mobile
+110	Diapers	BabySoap	BodyWash	Moisturizer	Deodorant	Towel
+111	Broom	BabySoap	Diapers	Moisturizer
+112	Batteries	Clothes	Hangers	VRHeadSet	Deodorant	Remote	Mobile
+113	VRHeadSet	Batteries	Moisturizer	Deodorant	BodyWash	Towel	Remote	Mobile
+114	Hangers	Clothes	Batteries
+115	BodyWash	Deodorant
+116	Batteries	Broom	Deodorant	Moisturizer
+117	Clothes	Hangers	BabySoap	Diapers	VRHeadSet	Batteries	Remote	Mobile
+118	Hangers	Broom	Diapers
+119	Batteries	Deodorant	BodyWash

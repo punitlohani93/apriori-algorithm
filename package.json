@@ -1,0 +1,18 @@
+{
+  "name": "apriori-algorithm",
+  "version": "1.0.0",
+  "description": "Implementation of apriori algorithm on text files containing transactions. Built as mid term project for CS634 Data Mining at NJIT.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node apriori.js",
+    "apriori": "node apriori.js",
+    "apriori-default": "node apriori.js 0.4 0.25 transactions1.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Punit Harish Lohani",
+  "license": "ISC",
+  "dependencies": {
+    "js-combinatorics": "^0.5.2",
+    "lodash": "^4.17.4"
+  }
+}
