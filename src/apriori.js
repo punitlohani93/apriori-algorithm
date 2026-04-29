@@ -3,7 +3,7 @@ var fs = require('fs')
 const SUPPORT = parseFloat(process.argv[2])/100
 const CONFIDENCE = parseFloat(process.argv[3])/100
 var Combinatorics = require('js-combinatorics')
-const FILE_SELECTION_INPUT = _.isEmpty(process.argv[4]) ? './transactions1.txt' : process.argv[4];
+const FILE_SELECTION_INPUT = _.isEmpty(process.argv[4]) ? './data/transactions1.txt' : process.argv[4];
 var transactions = fs.readFileSync(FILE_SELECTION_INPUT).toString().split('\r\n')
 console.log("\nTransactions being processed: \n")
 _.forEach(transactions, trxRow => {
