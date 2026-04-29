@@ -76,17 +76,17 @@ Ensure you have [Node.js](https://nodejs.org/) installed, and run `npm install` 
 
 You can run the script via the command line using:
 ```bash
-node apriori.js <support_percentage> <confidence_percentage> [optional_transaction_file]
+node src/apriori.js <support_percentage> <confidence_percentage> [optional_transaction_file]
 ```
 
 **Arguments:**
 1. `<support_percentage>`: The minimum support value (e.g., `40` for 40%).
 2. `<confidence_percentage>`: The minimum confidence value (e.g., `25` for 25%).
-3. `[optional_transaction_file]`: Path to the transaction file. Defaults to `./transactions1.txt` if not provided.
+3. `[optional_transaction_file]`: Path to the transaction file. Defaults to `./data/transactions1.txt` if not provided.
 
 **Example:**
 ```bash
-node apriori.js 40 25 transactions1.txt
+node src/apriori.js 40 25 data/transactions1.txt
 ```
 Or use the npm scripts defined in `package.json`:
 ```bash
