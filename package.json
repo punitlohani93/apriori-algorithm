@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Implementation of apriori algorithm on text files containing transactions. Built as mid term project for CS634 Data Mining at NJIT.",
   "main": "src/apriori.js",
+  "type": "module",
   "scripts": {
     "start": "node src/apriori.js",
     "apriori": "node src/apriori.js",
@@ -12,7 +13,6 @@
   "author": "Punit Harish Lohani",
   "license": "ISC",
   "dependencies": {
-    "js-combinatorics": "^0.5.2",
-    "lodash": "^4.17.4"
+    "js-combinatorics": "^0.5.2"
   }
 }
